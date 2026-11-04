@@ -67,7 +67,7 @@ void draw() {
       punten++;
     }
 
-    ballen[i].tekenen();s
+    ballen[i].tekenen();
   }
 
   // Platform tekenen
